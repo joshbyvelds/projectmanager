@@ -1,0 +1,27 @@
+{
+  "name": "project-manager",
+  "version": "0.0.0",
+  "description": "A project organization and managing tool.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshbyvelds/projectmanager.git"
+  },
+  "author": "Josh Byvelds",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/joshbyvelds/projectmanager/issues"
+  },
+  "homepage": "https://github.com/joshbyvelds/projectmanager#readme",
+  "dependencies": {
+    "ts-loader": "^6.2.1",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.6",
+    "webpack-auto-inject-version": "^1.2.2",
+    "webpack-cli": "^3.3.11"
+  }
+}

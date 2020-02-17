@@ -1,0 +1,1 @@
+alert("Webpack - TS Test");
